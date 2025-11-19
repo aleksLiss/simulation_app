@@ -1,4 +1,4 @@
-package ru.simulation.app;
+package ru.simulation.app.model;
 
 import java.util.Objects;
 
@@ -40,5 +40,13 @@ public class Coords {
     @Override
     public int hashCode() {
         return Objects.hash(x, y);
+    }
+
+    @Override
+    public String toString() {
+        return "Coords{" +
+                "x=" + x +
+                ", y=" + y +
+                '}';
     }
 }
