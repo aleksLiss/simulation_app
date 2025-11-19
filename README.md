@@ -4,6 +4,7 @@ ___
 
 https://zhukovsd.github.io/java-backend-learning-course/projects/simulation/
 ___
+
 Краткое описание:
 
 Пошаговая симуляция 2D мира, 
