@@ -4,6 +4,6 @@ import java.util.List;
 
 public interface Move {
 
-    Coords makeMove(Coords start, Coords goal, List<Coords> exclusion);
+    Coordinates makeMove(Coordinates start, Coordinates goal, List<Coordinates> exclusion);
 
 }
